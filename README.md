@@ -9,3 +9,5 @@ The original Peernet simulator is based on the Peersim simulator available here:
 This project is being conducted by the NOVA-SYS research group (https://novasys.di.fct.unl.pt/) of the NOVA LINCS laboratory (https://nova-lincs.di.fct.unl.pt/) from the NOVA School of Science and Technology (https://www.fct.unl.pt/en/about-fct/overview) in Portugal.
 
 Contact person: João Leitão (https://asc.di.fct.unl.pt).
+
+This iniative is being pursued in colaboration with Protocol Labs (https://protocol.ai/), in particular with the ResNet Lab (https://research.protocol.ai/groups/resnetlab/).
