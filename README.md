@@ -1,4 +1,4 @@
-# peernet-core
+# p2psim-core
 
 This is based on the peernet simulator by Spyros Voulgaris available here: https://github.com/PeerNet/PeerNet
 
