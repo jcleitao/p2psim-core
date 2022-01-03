@@ -4,7 +4,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>pt.unl.fct.di.novasys.peernet</groupId>
+	<groupId>pt.unl.fct.di.novasys.p2psim</groupId>
 	<artifactId>core</artifactId>
 	<version>1.1</version>
 
@@ -86,7 +86,7 @@
 				<artifactId>maven-assembly-plugin</artifactId>
 				<version>3.1.1</version>
 				<configuration>
-					<finalName>peernet</finalName>
+					<finalName>p2psim</finalName>
 					<appendAssemblyId>false</appendAssemblyId>
 					<archive>
 						<manifest>
